@@ -1,7 +1,7 @@
 <h1 align="center">Hello, こんにちは, 你好, 안녕하세요😊</h1>
 
 - Name(s): **Erela / Youqi / Yuki** 
-- Grade: **BS 3 at an American University**
+- Grade: **BS 3 at a University in the U.S.**
 - NL: **Japanese, Mandarin, English, Korean (+ Spanish, German)**
 - PL: **Python, JS, Java, Golang**
 - Majors: **Computer Science and Economics**
