@@ -2,9 +2,10 @@
 
 - Name(s): **Erela / Youqi / Yuki** 
 - Grade: **BS 3 at a University in the U.S.**
+- Majors: **Computer Science and Economics**
 - NL: **Japanese, Mandarin, English, Korean (+ Spanish, German)**
 - PL: **Python, JS, Java, Golang**
-- Majors: **Computer Science and Economics**
+
 
 
 <h2 align="left">My Contact:</h2>
