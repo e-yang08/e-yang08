@@ -1,7 +1,7 @@
 <h1 align="center">Hello, こんにちは, 你好, 안녕하세요😊</h1>
 
 - Name(s): **Erela / Youqi / Yuki** 
-- Grade: **BS 3 at a University in the U.S.**
+- Grade: **BS 4 at Minerva University based in San Francisco, CA**
 - Majors: **Computer Science and Economics**
 - NL: **Japanese, Mandarin, English, Korean (+ Spanish, German)**
 - PL: **Python, JS, Java, Golang**
