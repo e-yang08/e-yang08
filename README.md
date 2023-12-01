@@ -4,7 +4,7 @@
 - Grade: **BS 4 at Minerva University based in San Francisco, CA**
 - Majors: **Computer Science and Economics**
 - NL: **Japanese, Mandarin, English, Korean (+ Spanish, German)**
-- PL: **Python, JS, Java, Golang**
+- PL: **Python, C++, JS, Java, Golang**
 
 
 
